@@ -99,8 +99,3 @@ Create 1–2 sentences for each.
 - [ ] Place a crop
 - [ ] Advance “day” and update crop state
 - [ ] Show one consequence of “mood” changing
-
----
-
-## Notes / Brain Dump
-Add links, sketches, and random thoughts here.
