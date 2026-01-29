@@ -1,4 +1,4 @@
-# Sentient Fieds (Working Title)
+# Sentient Fields (Working Title)
 A 2D top-down farming / strategy sim where crops are sentient: they can cooperate with the player or organize against them.
 
 ---
