@@ -8,3 +8,4 @@
 ## Economy
 - Crops are sold weekly
 - Prices fluctuate slightly
+- Market demand affects prices (this change was made by kelly)
