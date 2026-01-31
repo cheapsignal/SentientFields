@@ -13,10 +13,11 @@ A 2D top-down farming / strategy sim where crops are sentient: they can cooperat
 
 ## Phase 0 — Vision & Scope (No Code)
 - [ ] Write a **1-paragraph pitch**
-      There is an arcane energy in the soil. Harness it, and your harvest will be bountiful.
-      Be careful, as inadequate care will lead to you and your farm's demise.
-      A witch has cursed these lands, infusing the flora growing from their soil with an unexpected life force.
-      Each plant species provides unique utility, or destructive hindrance to your farm.
+
+There is an arcane energy in the soil. Harness it, and your harvest will be bountiful.
+Be careful, as inadequate care will lead to you and your farm's demise.
+A witch has cursed these lands, infusing the flora growing from their soil with an unexpected life force.
+Each plant species provides unique utility, or destructive hindrance to your farm.
       
 - [ ] Define the **player fantasy**: “I am a ___ managing ___ while ___.”
 - [ ] Define **what success looks like** (win condition or long-term goal)
